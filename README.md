@@ -1,6 +1,11 @@
-#Yo, I'm Iustin👋
+# Yo, I'm Iustin👋
 
-I turn ideas into **interactive systems**
+Student developer building **games, systems, and interactive tech**.
+
+I enjoy working on projects where code actually shapes how things behave 
+from gameplay mechanics and simulations to experimental tools and VR ideas.
+
+If it moves, reacts, or feels alive, I'm probably interested in building it.
 
 🌐 **Portfolio:**  
 https://iustinrobu.com
@@ -12,8 +17,8 @@ https://iustinrobu.com
 **🧠 Ohm's Gate**  
 VR sandbox where students build and test electrical circuits using hand tracking.
 
-**⚔️ 7 Wonders Duel (C++)**  
-Digital implementation of the strategy board game using modern C++ and modular game logic.
+**⚔️ 7 Wonders Duel**  
+Digital 3D implementation of the strategy board game using modern C++ and modular game logic.
 
 **🏰 Radu Negru Revenge**  
 Unreal Engine tower-defense game inspired by Plants vs Zombies with economy and ability systems.
