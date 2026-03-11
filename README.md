@@ -49,7 +49,11 @@ Time-loop puzzle adventure where the player has to decipher an alien language.
 
 ## 🐍 Contributions
 
-![Snake animation](https://github.com/IustinRobu/IustinRobu/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IustinRobu/IustinRobu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IustinRobu/IustinRobu/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/IustinRobu/IustinRobu/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
