@@ -1,4 +1,6 @@
+#Yo, I'm Iustin👋
 
+I turn ideas into **interactive systems**
 
 🌐 **Portfolio:**  
 https://iustinrobu.com
