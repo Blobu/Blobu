@@ -6,10 +6,9 @@
 
 Student developer building **games, systems, and interactive tech**.
 
-I enjoy working on projects where code actually shapes how things behave  
-from gameplay mechanics and simulations to experimental tools and VR ideas.
-
-If it moves, reacts, or feels alive, I'm probably interested in building it.
+I don't care for the noise, I care for the build. My work lives in the space  
+where code shapes reality gameplay that bites, simulations that breathe, and tools that push boundaries.   
+If it moves, reacts, or challenges the user, I’m in. Results are the only thing that matters.  
 
 🌐 **Portfolio:**  
 https://iustinrobu.com
