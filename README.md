@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=58A6FF&lines=Student+Developer;Gameplay+Systems+Explorer;Building+Interactive+Experiences;Unreal+Engine+Developer)](https://git.io/typing-svg)
 
-Student developer building **games, systems, and interactive tech**.
 
-I do it cuz it's fun. 
+**I do it cuz it's fun.**
+
 
 🌐 **Portfolio:**  
 https://iustinrobu.com
