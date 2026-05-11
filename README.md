@@ -6,9 +6,7 @@
 
 Student developer building **games, systems, and interactive tech**.
 
-I don't care for the noise, I care for the build. My work lives in the space  
-where code shapes reality gameplay that bites, simulations that breathe, and tools that push boundaries.   
-If it moves, reacts, or challenges the user, I’m in. Results are the only thing that matters.  
+I do it cuz it's fun. 
 
 🌐 **Portfolio:**  
 https://iustinrobu.com
