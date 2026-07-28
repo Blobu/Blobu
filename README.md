@@ -25,8 +25,8 @@ Digital 3D implementation of the strategy board game using modern C++ and modula
 **🏰 Radu Negru Revenge**  
 Unreal Engine tower-defense game inspired by Plants vs Zombies with economy and ability systems.
 
-**🧑‍🚀 Lingua Astra**  
-Time-loop puzzle adventure where the player has to decipher an alien language.
+**👾 Code Splainer**  
+OpenClaw Web App extension for explaining large code repositories.
 
 ---
 
